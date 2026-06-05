@@ -1,4 +1,4 @@
-##                                              Hi there, I'm Anuj! 👋
+##                                              I'm Anuj! 
 ![Visitor Counter](https://komarev.com/ghpvc/?username=s-anuj1&color=008080&style=for-the-badge&label=PROFILE+VIEWS)
 ### Product Management & Data Analytics | AI Automation | Undergraduate @ IIT Roorkee
 
