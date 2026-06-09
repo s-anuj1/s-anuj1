@@ -54,6 +54,14 @@ An **LLM-powered semantic document reader** that splits documents into semantic 
 
 ## 🛠️ Tech Stack
 
+**Automation & Workflow**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make.com](https://img.shields.io/badge/Make.com-010101?style=for-the-badge&logo=make&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BBB0?style=for-the-badge&logo=Airtable&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+
 **Languages & Core**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -66,13 +74,6 @@ An **LLM-powered semantic document reader** that splits documents into semantic 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-**Automation & Workflow**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Make.com](https://img.shields.io/badge/Make.com-010101?style=for-the-badge&logo=make&logoColor=white)
-![Airtable](https://img.shields.io/badge/Airtable-18BBB0?style=for-the-badge&logo=Airtable&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 **Dev & Tooling**
 
@@ -135,12 +136,12 @@ An **LLM-powered semantic document reader** that splits documents into semantic 
 If you're working on something at the intersection of **product, data, and AI** — I'd love to connect.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-kumar-1aa590230/)
-[![Email](https://img.shields.io/badge/Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuj.product.iitr@gmail.com)
+  [![Email](https://img.shields.io/badge/Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuj.product.iitr@gmail.com)
 
 And if you want to connect for fun, let's connect!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anujsainii.__/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sainianuj_22)
+  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sainianuj_22)
 
 
 <br/>
