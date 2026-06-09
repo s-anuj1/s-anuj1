@@ -100,7 +100,6 @@ An **LLM-powered semantic document reader** that splits documents into semantic 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sainianuj07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=008080&icon_color=008080&text_color=ffffff"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainianuj07&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117&title_color=008080&text_color=ffffff"/>
 
 </div>
@@ -109,11 +108,6 @@ An **LLM-powered semantic document reader** that splits documents into semantic 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sainianuj07&theme=algolia&hide_border=true&background=0d1117&ring=008080&fire=FF6B35&currStreakLabel=008080" alt="GitHub Streak"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sainianuj07&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 
 </div>
 
