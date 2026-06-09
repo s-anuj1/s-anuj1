@@ -106,13 +106,13 @@ An **LLM-powered semantic document reader** that splits documents into semantic 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=s-anuj1&theme=algolia&hide_border=true&background=0d1117&ring=008080&fire=FF6B35&currStreakLabel=008080" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sainianuj07&theme=algolia&hide_border=true&background=0d1117&ring=008080&fire=FF6B35&currStreakLabel=008080" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=s-anuj1&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sainianuj07&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 
 </div>
 
