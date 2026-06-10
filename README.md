@@ -19,7 +19,7 @@
 
 > *"I don't just use AI — I design the systems that make it work in the real world."*
 
-- 🎓 **Dual-Degree @ IIT Roorkee** (2021–2026) — Product Management, Data Analytics & AI Automation
+- 🎓 **Dual-Degree @ IIT Roorkee** (2021–2026) 
 - 🤖 I build **data-driven workflows, semantic AI tools, and operational automations** that actually ship
 - 🧪 Philosophy: **bridge the gap between engineering and product** — clean systems, measurable outcomes
 - 🏔️ Beyond the screen: Mountaineered to **6,121m (Mt. Yunam)**, **5,819m (Mt. Rudugaira)** and Skiing course @ **IISM, Gulmarg**
