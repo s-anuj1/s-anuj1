@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=200&section=header&text=Anuj%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Product%20%7C%20Data%20%7C%20AI%20Automation&descAlignY=55&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=008080&center=true&vCenter=true&random=false&width=700&lines=Product+Management+%26+Data+Analytics;AI+Automation+%7C+Workflow+Engineering;Building+intelligent+systems+that+scale;Where+operations+meet+intelligence;IIT+Roorkee'26)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=008080&center=true&vCenter=true&random=false&width=700&lines=AI+Workflow+%26+Data+Analytics;AI+Automation+%7C+Workflow+Engineering;Building+intelligent+systems+that+scale;Where+operations+meet+intelligence;IIT+Roorkee'26)](https://git.io/typing-svg)
 
 <br/>
 
